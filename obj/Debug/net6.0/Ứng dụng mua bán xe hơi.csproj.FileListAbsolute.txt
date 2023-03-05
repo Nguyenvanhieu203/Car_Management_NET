@@ -1,0 +1,30 @@
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.csproj.AssemblyReference.cache
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.AssemblyInfoInputs.cache
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.AssemblyInfo.cs
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.exe
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.deps.json
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.runtimeconfig.json
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.dll
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.pdb
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.dll
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\refint\Ứng dụng mua bán xe hơi.dll
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.pdb
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\ref\Ứng dụng mua bán xe hơi.dll
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.exe
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.deps.json
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.runtimeconfig.json
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.dll
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\bin\Debug\net6.0\Ứng dụng mua bán xe hơi.pdb
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.dll
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\refint\Ứng dụng mua bán xe hơi.dll
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.pdb
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\Ứng dụng mua bán xe hơi.genruntimeconfig.cache
+E:\Lập trình .NET\Ứng dụng mua bán xe hơi\Ứng dụng mua bán xe hơi\obj\Debug\net6.0\ref\Ứng dụng mua bán xe hơi.dll
